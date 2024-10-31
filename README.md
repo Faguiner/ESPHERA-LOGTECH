@@ -1,5 +1,3 @@
-
-
 # ESPHERA-LOGTECH
 ![ESPHERA LOGTECH](https://github.com/user-attachments/assets/b1b9dfe7-8c29-4c56-9fff-8d0422f5bd47)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=header"/>
@@ -10,7 +8,7 @@
 # Quem somos?
 *Moving at the speed of the future!  |  Movendo-se na velocidade do futuro!*
 
-Bem-vindo(a)  a SWIFT MOVE, onde o futuro da mobilidade se torna uma realidade palpável. Somos uma empresa logística dedicada em fornecer praticidade, inovação e habilidade ágil e sob medida de acordo com as necessidades individuais de cada cliente. Temos um compromisso inabalável com a excelência e nos destacamos no mercado com planejamento preciso e efetivo. Nossa missão é impulsionar o futuro da movimentação de maneira rápida, eficiente e segura. 
+Bem-vindo(a) a ESPHERA_LOGTECH, onde o futuro da mobilidade se torna uma realidade palpável. Somos uma empresa logística dedicada em fornecer praticidade, inovação e habilidade ágil e sob medida de acordo com as necessidades individuais de cada cliente. Temos um compromisso inabalável com a excelência e nos destacamos no mercado com planejamento preciso e efetivo. Nossa missão é impulsionar o futuro da movimentação de maneira rápida, eficiente e segura. 
 
 Com uma equipe de ponta e tecnologia avançada, a SWIFT MOVE está comprometida em simplificar o processo logístico e garantir um resultado excepcional ao cliente.
 
@@ -79,12 +77,12 @@ Este projeto tem como objetivo mapear e produzir um fluxo de exportações a par
 
 Sprint | Previsão | Status| Histórico| Apresentação|
 |------|--------|------|--------|---------|
-|Kick Off | 11/03/2024 | Concluido| [Ver Relatório](Arquivos_Sprint1/Relatório_do_Kick_off.pdf) | - |
-|01 | 15/04/2024 | Concluído| [Ver Relatório](Arquivos_Sprint1/relatório_api_sprint1.pdf) | [Ver Apresentação](Arquivos_Sprint1/Sprint1.pdf)
-|02|  06/05/2024|Concluído | [Ver Relatório](Arquivos_Sprint2/relatório_sprint2.pdf) | [Ver Apresentação](Arquivos_Sprint2/Sprint2.pdf) / [Ver Dashboard](Arquivos_Sprint2/Dashboard_Sprint2.pdf) |
-|03| 27/05/2024 | Concluído| [Ver Relatório](Arquivos_Sprint3/Relatório_Sprint3.pdf)  |[Ver Apresentação](Arquivos_Sprint3/Sprint3.pdf) / [Ver Dashboard](Arquivos_Sprint3/Dash_sprint3.pdf) |
-|04| 17/06/2024 | Concluído |  [Ver Relatório](Arquivos_Sprint4/Relatório_Sprint4.pdf) | [Ver Apresentação](Arquivos_Sprint4/Sprint4.pdf) / [Ver Dashboard](Arquivos_Sprint4/Dashboard_Sprint4_.pdf)  |
-|Feira de Soluções|27/06/2024 | Concluído |  -  | [Ver Apresentação](Feira_de_soluções/Swift_Move.pdf) / [Ver Dashboard Finalizado](https://youtu.be/N641WAjU3T4) |
+|Kick Off | 11/03/2024 | Concluido| [Ver Relatório]| - |
+|01 | 15/04/2024 | Concluído| [Ver Relatório](Arquivos_Sprint1/ | [Ver Apresentação]
+|02|  06/05/2024|Concluído | [Ver Relatório](Arquivos_Sprint2/relatório_sprint2.pdf) | [Ver Apresentação]/ [Ver Dashboard]( |
+|03| 27/05/2024 | Concluído| [Ver Relatório](Arquivos_Sprint3/Relatório_Sprint3.pdf)  |[Ver Apresentação](Arquivos_Sprint3/Sprint3.pdf) / [Ver Dashboard] |
+|04| 17/06/2024 | Concluído |  [Ver Relatório] | [Ver Apresentação](Arquivos_Sprint4/Sprint4.pdf) /  |
+|Feira de Soluções|27/06/2024 | Concluído |  -  | |
   
 # Backlog
 
