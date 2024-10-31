@@ -44,10 +44,8 @@ Ambas com Propósito de melhorar a eficiência do planejamento urbano e garantir
 
 ## Tecnologias Utilizadas
 
-<div id="top"></div>
-<p align="right side">
-      <img src="Arquivos_Sprint1/Tecnologias_utilizadas..png" width="50%" height="50%">
-<p align="center">
+Pacote Office 
+PowerBi 
 
 # Sprints
 
