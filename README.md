@@ -12,12 +12,6 @@ Bem-vindo(a) a ESPHERA_LOGTECH, onde o futuro da mobilidade se torna uma realida
 
 Com uma equipe de ponta e tecnologia avançada, a SWIFT MOVE está comprometida em simplificar o processo logístico e garantir um resultado excepcional ao cliente.
 
->Logo
-<div id="top"></div>
-<p align="right side">
-      <img src="Arquivos_Sprint1/SwiftMove.png" width="30%" height="30%">
-<p align="center">
-
 
 >Organograma
 <div id="top"></div>
