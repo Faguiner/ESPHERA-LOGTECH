@@ -13,20 +13,6 @@ Bem-vindo(a) a ESPHERA_LOGTECH, onde o futuro da mobilidade se torna uma realida
 Com uma equipe de ponta e tecnologia avançada, a SWIFT MOVE está comprometida em simplificar o processo logístico e garantir um resultado excepcional ao cliente.
 
 
->Organograma
-<div id="top"></div>
-<p align="right side">
-      <img src="Arquivos_Sprint1/Organograma.jpeg" width="70%" height="70%">
-<p align="center">
-
-
->Análise SWOT- API
-<div id="top"></div>
-<p align="right side">
-      <img src="Arquivos_Sprint1/Análise_Swot.png" width="70%" height="70%">
-<p align="center">
-
-
 # Índice
 
 * [Projeto](#projeto-template)
@@ -119,27 +105,12 @@ Sprint | Previsão | Status| Histórico| Apresentação|
 # Burndown
 
 > Burndown 1
-<div id="top"></div>
-<p align="center">
-      <img src="Arquivos_Sprint1/Burndown1.png" width="230%" height="230%">
-<p align="center">
 
 > Burndown 2
-<div id="top"></div>
-<p align="center">
-      <img src="Arquivos_Sprint2/Burndown_Sprint2.jpeg" width="230%" height="230%">
-<p align="center">
 
 > Burndown 3
-<div id="top"></div>
-<p align="center">
-      <img src="Arquivos_Sprint3/Burndown_Sprint3.jpeg" width="230%" height="230%">
-<p align="center">
+
 
 > Burndown 4
-<div id="top"></div>
-<p align="center">
-      <img src="Arquivos_Sprint4/Burndown_Sprint4.jpeg" width="230%" height="230%">
-<p align="center">
 
 
