@@ -38,13 +38,9 @@ Projeto baseado na metodologia ágil SCRUM (método aliado dos gestores de proje
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo mapear e produzir um fluxo de exportações a partir dos dados da RMVALE e LITORAL NORTE através do aeroporto Professor Ernesto Stumpf, visando:
-* Detalhar cargas potenciais;
-* Cargas com valor agregado relevante;
-* Otimização de tempo logístico;
-* Analisar as oportuninades aeroviárias;
-* Desenvolvimento de uma ferramenta visual, com dados que auxiliem tomadas de decisões.
- 
+
+ O Projeto consiste em implatar as Estações Tubos e as Paradas Alternadas e Paradas Específicas. 
+Ambas com Propósito de melhorar a eficiência do planejamento urbano e garantir uma melhor experiência do público.
 
 ## Tecnologias Utilizadas
 
