@@ -1,2 +1,4 @@
 # ESPHERA-LOGTECH
-![ESPHERA LOGTECH](https://github.com/user-attachments/assets/27ce9b33-22e7-4022-aef9-a2644171ea1b)
+![ESPHERA LOGTECH](https://github.com/user-attachments/assets/e4bcfa1b-0430-44cd-bea5-88d4f4d07fa5)
+
+
